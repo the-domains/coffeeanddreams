@@ -4,22 +4,15 @@
         <description><![CDATA[coffee & dreams]]></description>
         <link>https://thegrid.ai/coffeedreams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Sep 2017 12:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2017 12:58:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coffeedreams/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 Sep 2017 12:58:12 GMT</pubDate>
+        <pubDate>Sun, 03 Sep 2017 12:58:14 GMT</pubDate>
         <item>
             <title><![CDATA[Test 1]]></title>
             <description><![CDATA[<h1>Test 1</h1>,<p>just a test</p>]]></description>
             <link>https://thegrid.ai/coffeedreams/test-1/index.html</link>
             <guid isPermaLink="false">c7343445-6cab-433d-9d9a-4917cef5bf11</guid>
             <pubDate>Sun, 03 Sep 2017 11:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Test 3]]></title>
-            <description><![CDATA[<h1>Test 3</h1>,<p>☕️</p>]]></description>
-            <link>https://thegrid.ai/coffeedreams/test-3/index.html</link>
-            <guid isPermaLink="false">203e73aa-2fb9-470d-b9da-e3e3a7e1c5e1</guid>
-            <pubDate>Sun, 03 Sep 2017 11:28:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
