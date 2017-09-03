@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   at 1958 sq. ft. it maybe a bit big ? ..but we’ll keep going for now.. can
   scale down later..
-dateModified: '2017-09-03T18:50:25.808Z'
-datePublished: '2017-09-03T18:50:25.964Z'
+dateModified: '2017-09-03T18:50:17.694Z'
+datePublished: '2017-09-03T18:50:18.377Z'
 title: lets begin..
 author: []
 publisher: {}
 via: {}
 hasPage: true
-sourcePath: _posts/2017-09-03-lets-begin.md
 starred: false
 datePublishedOriginal: '2017-09-03T18:50:18.377Z'
+sourcePath: _posts/2017-09-03-lets-begin.md
 url: lets-begin/index.html
 _type: Article
 
