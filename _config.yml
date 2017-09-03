@@ -1,0 +1,27 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: coffeeanddreams
+layout_spectrum: 0.3548642476089299
+typography_spectrum: 0.16727617010474205
+color:
+  brandStrength: 0.9188595588784665
+  lightness: 0.9793004994280636
+  saturation: 0.9204144300892949
+  rhythmicContrast: 0.2645401961635798
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+content: []
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2c98490-a24f-4b63-b5d1-67fdf145f069.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a09ed1bf-ecb4-481d-bc5f-0164eec283d4.png
