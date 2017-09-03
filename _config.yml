@@ -1,3 +1,16 @@
+layout_spectrum: 0.2590676016049773
+typography_spectrum: 0.16150787860321084
+color:
+  brandStrength: 0.7198943022254964
+  lightness: 0.8155169707583725
+  saturation: 0.627000423347725
+  rhythmicContrast: 0.9471884489267842
+  brandColors:
+    - '#C8925B'
+    - '#B67334'
+    - '#0B0B0B'
+    - '#CCC4BC'
+    - '#754C24'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: coffeeanddreams
-layout_spectrum: 0.3548642476089299
-typography_spectrum: 0.16727617010474205
-color:
-  brandStrength: 0.9188595588784665
-  lightness: 0.9793004994280636
-  saturation: 0.9204144300892949
-  rhythmicContrast: 0.2645401961635798
-  brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
