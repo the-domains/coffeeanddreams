@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -50,3 +49,5 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2c98490-a24f-4b63-b5d1-67fdf145f069.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a09ed1bf-ecb4-481d-bc5f-0164eec283d4.png
+title: coffee & dreams
+description: ''
