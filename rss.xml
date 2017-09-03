@@ -4,22 +4,22 @@
         <description><![CDATA[coffee & dreams]]></description>
         <link>https://thegrid.ai/coffeedreams/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Sep 2017 12:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2017 12:59:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/coffeedreams/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 Sep 2017 12:58:55 GMT</pubDate>
-        <item>
-            <title><![CDATA[Test 2]]></title>
-            <description><![CDATA[<h1>Test 2</h1>,<p>another test..</p>]]></description>
-            <link>https://thegrid.ai/coffeedreams/test-2/index.html</link>
-            <guid isPermaLink="false">ad1c8b57-4da5-40f3-a30d-1ae5a0183649</guid>
-            <pubDate>Sun, 03 Sep 2017 12:58:46 GMT</pubDate>
-        </item>
+        <pubDate>Sun, 03 Sep 2017 12:58:59 GMT</pubDate>
         <item>
             <title><![CDATA[purpose..]]></title>
             <description><![CDATA[<h1>purpose..</h1>,<p>the purpose of the site it to catalog plans for a future business.. down to the last detail. it’s probably just a huge mood board based off a dream i had.. but one day, i may have to come back to this website, and.. well hopefully it will become a reality..</p>,<p>adec</p>]]></description>
             <link>https://thegrid.ai/coffeedreams/test-1/index.html</link>
             <guid isPermaLink="false">c7343445-6cab-433d-9d9a-4917cef5bf11</guid>
             <pubDate>Sun, 03 Sep 2017 11:22:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Test 2]]></title>
+            <description><![CDATA[<h1>Test 2</h1>,<p>another test..</p>]]></description>
+            <link>https://thegrid.ai/coffeedreams/test-2/index.html</link>
+            <guid isPermaLink="false">ad1c8b57-4da5-40f3-a30d-1ae5a0183649</guid>
+            <pubDate>Sun, 03 Sep 2017 12:58:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
