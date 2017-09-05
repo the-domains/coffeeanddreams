@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   at 1958 sq. ft. it maybe a bit big ? ..but we’ll keep going for now.. can
   scale down later..
-dateModified: '2017-09-05T11:01:06.974Z'
-datePublished: '2017-09-05T11:01:07.202Z'
+dateModified: '2017-09-05T11:04:03.925Z'
+datePublished: '2017-09-05T11:04:04.034Z'
 title: lets begin..
 author: []
 publisher: {}
@@ -20,4 +20,4 @@ _type: Article
 # lets begin..
 
 at 1958 sq. ft. it maybe a bit big ? ..but we'll keep going for now.. can scale down later..
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f703878a-8c4b-49e3-95d3-1e8e726830a1.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01a78502-90a8-4e0e-b56e-26d8b1beb61c.png)
