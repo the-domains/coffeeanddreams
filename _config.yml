@@ -18,7 +18,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: coffeeanddreams
+name: coffee & dreams
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -48,7 +48,7 @@ github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2c98490-a24f-4b63-b5d1-67fdf145f069.png
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a09ed1bf-ecb4-481d-bc5f-0164eec283d4.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0cff5a5-47da-41e5-aee6-ff2523d465e5.png
 title: coffee & dreams
 description: ''
 url: 'https://thegrid.ai/coffeedreams/'
